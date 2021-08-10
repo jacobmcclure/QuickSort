@@ -1,0 +1,18 @@
+Jacob McClure
+jatmcclu@ucsc.edu
+
+This file is a table of contents for my QuickSort algorithm:
+
+1) README - this file.
+
+2) SortStrings.c - executable C file that takes n strings from an in file and 
+   sorts them in order then copies them to an outfile.
+   Usage: in the command line, enter "SortStrings <input file name> <output file name>",
+          where the input file is a list of strings separated by new lines.
+
+3) Makefile - a file used to automate compilation, submission, and valgrind.
+
+4) in.txt - sample input file containing a list of unsorted strings
+
+5) out.txt - sample output file containing a sorted list of strings (from the input 
+   file above).
